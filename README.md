@@ -2,15 +2,15 @@
 
 I make all sorts of projects on here :))
 
-some hobbies:
-running
-swimming 
-calisthenics
-piano
-reading
-cooking
-skating
-geoguessr 🌐 
+some hobbies: <br />
+\running <br /> 
+swimming <br />
+calisthenics <br />
+piano <br />
+reading <br />
+cooking <br />
+skating <br />
+geoguessr 🌐 <br /> 
 
 <!--
 **dave-grave/dave-grave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
