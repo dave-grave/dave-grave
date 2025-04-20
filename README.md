@@ -3,7 +3,7 @@
 I make all sorts of projects on here :))
 
 some hobbies: <br />
-\running <br /> 
+running <br /> 
 swimming <br />
 calisthenics <br />
 piano <br />
